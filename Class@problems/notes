@@ -1,1 +1,10 @@
+                                       12/09/2021
 
+class is a collection of data members and functions
+
+object : object is a variable which can hold refernce of an instance
+
+instance : memory allocated for a class is called instance
+
+object will be created on stack segment  
+instance will be created on heap segment
